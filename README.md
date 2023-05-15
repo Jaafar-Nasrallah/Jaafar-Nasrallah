@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaafar-Nasrallah
 - 👀 I’m interested in DevOps and Web Development
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently honing my development and DevOps skills
 - 📫 You can reach me at jaafar_nasrallah@hotmail.com 
 
 <!---
